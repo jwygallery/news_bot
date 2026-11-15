@@ -1,0 +1,37 @@
+📅 2026년 11월 15일
+서울 날씨: Sunny | 현재 10°C | 최저 9°C | 최고 16°C | 강수량 0.0mm | 습도 86%
+
+📊 주요 금융 지표
+- USD/KRW: 1,336.06 원
+- KOSPI: 5,290.53 (-0.98%)
+- NASDAQ: 25,136.27 (-0.91%)
+- Google: 295.77 (-0.98%)
+- Apple: 356.27 (+0.39%)
+- Microsoft: 523.88 (+0.17%)
+- QQQM: 279.97 (-1.21%)
+
+🇰🇷 국내 증시
+- <a href="http://www.ftoday.co.kr/news/articleView.html?idxno=369744">젠슨 황 공백에 흔들린 AI주…&quot;엔비디아 실적·앤트로픽 상장 주목&quot;</a>
+- <a href="https://www.ekn.kr/web/view.php?key=20261115028479641">‘젠슨 황 없는’ 엔비디아 실적에 쏠린 눈[주간증시]</a>
+- <a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1008846343&amp;plink=ORI&amp;cooper=NAVER">&#x27;빚투&#x27; 자금 30%가 삼전·닉스에 집중…변동성 더 키웠다</a>
+- <a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1008846340&amp;plink=ORI&amp;cooper=NAVER">&#x27;빚투&#x27; 자금 30%가 삼전·닉스에 집중…변동성 더 키웠다</a>
+- <a href="https://www.viva100.com/article/20261114500186">[주간증시전망] ‘젠슨 황 리스크’에 반등 꺾인 코스피…엔비디아 실적...</a>
+- <a href="https://news.sbs.co.kr/news/endPage.do?news_id=N1008846338&amp;plink=ORI&amp;cooper=NAVER">&#x27;9천피&#x27;에 발행된 ELS, 내달부터 만기 도래…원금 손실 우려</a>
+- <a href="http://www.kjdaily.com/article.php?aid=1794701654692225276">[이번주 증시 전망] 엔비디아 실적 분수령</a>
+
+🇺🇸 해외 증시
+- <a href="https://news.google.com/rss/articles/CBMid0FVX3lxTE1DUGhtX3RkQk1tTVc3WFZQOGhSalVKd2RzNks0R1dHRlFMSUd1bUhOeVVmNTQxS09JQjhaaTBQVWVnY3RBblNRRlc3a21TVEJJUnZmVm9pYmJMSVNWazl5bU9lZkdyOVpSSXhoSUlfeEx1ZUdvakVR0gF8QVVfeXFMUEZVRDFwUjNBQ01QTjdQX0h5WXU5R3BqdDZwVFJiNU9obl9qYk1lWC1XTWUxbDhFaGR4V2x0cERQdDAyNFlJQk1fNXBqdFItb3FaTDdyV2R6WklkbExBZHNnQ3k1WFR4X0FaeGpRM09SZHprem0zajZXbEx6Vg?oc=5">Nasdaq falls on Friday as Nvidia sells off, but index notches best week since August: Live updates - CNBC</a>
+- <a href="https://news.google.com/rss/articles/CBMihwFBVV95cUxOOG9vVjRkb0hxUE1ybFptSEtacTBMTjBOOFBETTU3TkJ1YlVvbkoxN1BnR3hmRDZHZzdZZURNY0pwZTFCb1pzRXFaQzJMZnB0ZGxXRF9SODZxOXZ0SktNUDBNX1BFOUcxaDlPcGlIeGM1M2Z6VkN3V1g3YnN3QmFHQlJYaFRtLTA?oc=5">Stock Market News, Nov. 13, 2026: Nvidia Shares Drop Again as Investors Eye Fallout From Huang&#x27;s Removal - WSJ</a>
+- <a href="https://news.google.com/rss/articles/CBMimwFBVV95cUxQLTktc1RQNWQxUnRyQXVkcVRpYUtRSUV6Y2dXX0lpYmduS2Q5NHBLXzc1Q2trUktLdi1RMGs4ekJycno1Q0pSTWpna29rV1p2LWNkVkhDQ2RuNmNHaGxHdkZTSEh2czQtS1RfVnFCb29DNU04a2ZjYnZXQ05nZlI3MThaQVZUTlFEMmliVmJ3R1FycnBtRFV6UndwNA?oc=5">Nvidia director sold nearly $1B in stock weeks before the Jensen Huang scandal broke — and no trading plan was flagged - Yahoo Finance</a>
+- <a href="https://news.google.com/rss/articles/CBMilgFBVV95cUxNUWl6b2pYWE9JeUVLZm9CdVJKMG5tZVpVczRqb3cySk5NcjVVZFlMNFBZcnMycmYyZlZIcFk5a3pfdS1BaWthZ0hpaFVMOWxlbmpfOWxWV3YtSXVnV2pFR1RwN25hNlJxZzlGTWsxVExXTGI0cXZuOTRPQXVLNUVwdHVUa0tySVozLVhHVEtzcWw2MzNEWUE?oc=5">Nvidia&#x27;s Ousted CEO Said a 1-Gigawatt Data Center Delay Costs $10 Billion a Quarter. Here&#x27;s Why That Matters for Power Stocks. - The Motley Fool</a>
+- <a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOd1luSGcydUl6NE15cEcydlNhSnRuNjNjVHdMQldrQjRYcXpLZ3FfbnNrWndndDNTaUowRWJ6NDg0dUdaN084LW00YU4tNEhPTXh6Ymx3WVFpZk5MQTgwVFpMX1o4cFdXT2lCQi1xSzlncG9mUkpDa0xTUF9BY2E3cXVnS2fSAYoBQVVfeXFMTmZFcVNQMElxVkdHNTFNMVBOYTg0SGVKNm5ISHM5N3pGUUxKSE5Za2ZuMmZNb3RnY0FpVWxNbWtIdXFIdm0wOWVIa3FXWVJJaVhhTHBzOVpJbzVnY2VGZk04WE5aRHVBdjdkRlVpSm1VQXo1ckRPRTV4aDNjNGJNeGlhSXZ4ZEhIa1dR?oc=5">AI risks are the biggest threat to the financial system, Fed survey finds - CNBC</a>
+- <a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxPWkZiVk1uU2k5a1RQRGUxdFBJMEcxSVhtWEJfR0s3Q3E3T185OXRrZHRZMDVsQlhTdVpIbVlfQnNPem4zbGlTMDR6elFDRlM3RzhETUhCVzlTTDJvWmtfQzctcUFhRXZsVmxpVjBQUXpXTkRUTThQNVJwQV9YX19qaTZGVGswRGF1N2d0dktsZW5DVHlFWVNENmtQaERZYm5ZTmREdm8tMzVjX3ZCQUdqbTFCbWktdw?oc=5">Federal Reserve to Forgo Rate Decision at October 2027 Meeting - WSJ</a>
+- <a href="https://news.google.com/rss/articles/CBMifkFVX3lxTE9LOFV2S1F2VFVFWG51dVRzbUg1VUJuLTdzenJxVjZZNnItQ2RYTjlQYTJ0SkJTQ0Q0OENocEhjR3JLMEN6YklVd2g0bmw2U01YSkowUkwwa3NUaE12a3NSOHR0WHRYUHZVbXRzYXZtS3dDdVhISDNXSTdLWDFEZ9IBgwFBVV95cUxPRTQ2aVhyLXhSZ0l0dzMzMGlJQ0RkdnpCZW80M1ZhQXpQTmdqemtJd0Q1SnI0ZF8wbm1RdktrQ3FjV2tSTnRNNjVKXzV4TEZyc0hvcklzRVpHeHQ0QXZ5dUx4cmRjVHplZi1EOUtucHZMdzNZZEVfNWc5b0JQNHRSSUFaSQ?oc=5">Fed unveils 2027 calendar, confirming October meeting will not include rates vote - The Hill</a>
+
+📰 정치/사회
+- <a href="https://www.siminsori.com/news/articleView.html?idxno=402390">대법원 앞 216차 촛불집회…&quot;사법부의 진짜 주인은 국민, 조희대 탄핵하...</a>
+- <a href="https://www.mediawatch.kr/news/article.html?no=261737">이재명 정부 ‘성남라인’ 인사… 법무장관 후보 이용철 포함 현직 최소...</a>
+- <a href="http://www.ftoday.co.kr/news/articleView.html?idxno=369744">젠슨 황 공백에 흔들린 AI주…&quot;엔비디아 실적·앤트로픽 상장 주목&quot;</a>
+- <a href="https://www.ize.co.kr/news/articleView.html?idxno=82628">&#x27;문무&#x27; 이현욱, 294억 대작 주인공다운 묵직한 첫 등장</a>
+- <a href="https://www.news1.kr/politics/assembly/6354227">정점식 &quot;李 재판 지연 용납 안 돼…대통령 부부 재판 재개해야&quot;</a>
+- <a href="https://www.joongang.co.kr/article/25478679">기대보다 우려 큰 첫 미·중·러 정상회담…김정은은 ‘제2의 얄타’ 노...</a>
