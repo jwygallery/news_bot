@@ -1,0 +1,36 @@
+📅 2026년 11월 17일
+
+📊 주요 금융 지표
+- USD/KRW: 1,335.49 원
+- KOSPI: 5,050.50 (-0.98%)
+- NASDAQ: 24,509.76 (-2.49%)
+- Google: 283.72 (-4.07%)
+- Apple: 352.78 (-0.98%)
+- Microsoft: 517.99 (-1.12%)
+- QQQM: 272.49 (-2.67%)
+
+🇰🇷 국내 증시
+- <a href="https://www.tokenpost.kr/news/breaking/439554">엔비디아 4% 하락해 52주 신저가…나스닥 2.49% 내려</a>
+- <a href="https://www.newspim.com/news/view/20261117000663">S&amp;P500, 4년 연속 두 자릿수 상승 도전…엔비디아 실적이 분수령</a>
+- <a href="https://www.businesspost.co.kr/BP?command=article_view&amp;num=452168">글로벌 투자은행들 내년 원화 포함 &#x27;인공지능 수혜&#x27; 아시아 통화 강세 ...</a>
+- <a href="https://www.christiantoday.co.kr/news/378674">코스피 5000 급락에 삼성SDI 주가도 흔들...2차전지·전고체 배터리주 약...</a>
+- <a href="https://www.munhwa.com/article/11631940?ref=naver">젠슨황 사태 후폭풍… 또 주저앉은 5000피</a>
+- <a href="https://www.wikitree.co.kr/articles/1175249">현금만 무려…삼성전자·SK하이닉스 곳간 얼마나 찼길래?</a>
+- <a href="https://www.kukinews.com/article/view/kuk202611170082">“의무공개매수법 이대로 통과되면 코스피 4200”…외국인 이탈 경고</a>
+
+🇺🇸 해외 증시
+- <a href="https://news.google.com/rss/articles/CBMihwFBVV95cUxOdy10SlNMRlFPdjFwZnBNZEwybjZLOGwxdENoX2wxZWpLTlB0bXNvbFctREtRcThZUXcxRUV6ZXlYSVZjR0d1MVNEaHNvVDJfVXVvZEN6MFJMMUF0VnNTMHFTWmtIZzVKMWxCM1BMU3l6UEJUWWVnbzNvTG13TmhQUjNPZlJYQlU?oc=5">Stock Market News, November 16, 2026: Nasdaq Slides 2.5% as Nvidia Drama Continues - WSJ</a>
+- <a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxOQ2NOQkNqYVZWbkN6TG0xVWxvcXkteG81NU93amR5aHNoSWlxT3V2SmJfSE9XVHNEWWI2RWhibWJGdENFd0s1T044cEZhYnllT2NtQWN3U0ZaT2xlN2c5eGpBSVE2R2xxd3VLUzZkWmRVdFY0a3Y2SVRqbzdXN0lpRzI2UVRuclRTX3FsR0N3WDZoc2tqOXlJZ0E0cEo2bDRRWTNJVk04UnZiajlQeXJtYXhwUTdyTmc?oc=5">Global Funds Cautiously Increasing Exposure to India IT Stocks - Bloomberg.com</a>
+- <a href="https://news.google.com/rss/articles/CBMikwFBVV95cUxQOFVBaUVQSE5HYTdaMmdNbk00YXZzQW9KSklzM0lyYnptcXY5c01rdS1MSUJoVC1PazdQenV0TURLaVlTWE5QTUs4Z0txRzJIMmduQmxEcTNDQ0dvQVdUdmhsTzY3QV91alNqbTZUR21EVGFHRUI2NlRpNHB0MGdYQmszN09GWm9fRXNLTmFKR3FLLTA?oc=5">Intel Sits 61% Below the Peak When Jim Cramer Called It His Favorite - Yahoo Finance</a>
+- <a href="https://news.google.com/rss/articles/CBMigAFBVV95cUxQeXcxRTJRa2oySnFCTk1vaERsVVFxTzZ2dW4zcU9oSU9oZVIyOGZxdU81M2habUtrTFFCSDhkRXg3bzMzWWZHYnBMUmx1TVQzZjc5Si00UzlMZFM0cEtHaUc2WDBXcE5SSjhmdFZEY19xeVpKX2pBSE4zM3cxZWY5Yg?oc=5">Who Is Anthropic Kidding? - The Atlantic</a>
+- <a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxNWVNGMGpvV3lXb3ZyT2VleHhIVjM4X1U1b1F0ZE95MW5SYTBaTmJwaURYRHIwSkdBQ0lXLVFtTklfOF80ZmV1dlpNUkdZbXBfR2wyUzFwT1B6WHNmNklhWUt3eERDaXNjaEF1V3VpZ1JteHFhS19YcmoyOTlEYlFZc2k1dVVPVVJORHMxVlNqWGRVM1FIem5Lam5oM1AtZUoxUTB2R2pMcGF2eGVGNUVWNERkaDR5UU5DdXpIUnpQYXhLX0JtZXc?oc=5">Fed Chair Warsh Remarks at Federal Reserve Conference in San Francisco - C-SPAN</a>
+- <a href="https://news.google.com/rss/articles/CBMidEFVX3lxTE1seHNLTEVjRmlFTzQyYmpBZVNCaXd3a1dnTEkyNFV3VkZmSGk5WHQyUEhjSHZLTXRJYnVxZkF5ZkRvclZsbXAybGRtUTFIMmpUNDNwN2stUzdoVmNEVEJaY0F2YXVwMUtXbFlKc0xkX21SZ3JO0gF6QVVfeXFMT0MyNFFrVnJmcGxqcUluVV9LTUgyeVo2MDVlNUpNQW03cXd0U1l0a0FxSmhKUFRCNTJIM3B5WklRbDEzZFplRGlDOGYxempYY1h6czlobFdWaXE5ZHY2YVdSdmxadHozNC13VFFCOWJBZ0p2dVFyemlqRHc?oc=5">Fed Chairman Kevin Warsh stresses importance of AI to economy, but says it could ‘disappoint’ - CNBC</a>
+- <a href="https://news.google.com/rss/articles/CBMiaEFVX3lxTE5IWXhxT19LOGhnTFRsRDZXVGRrR0dDWEctMkhndGtmMEpLMEdDTWhVVzFxRkRSX0ZqbnNVSXJnNm1tWmxkdjQ5Z1BXQmZtVlVNamdjWW02dWV4Q1hwX3ZZak8tRjE5N0tM?oc=5">Fed&#x27;s Warsh sees risk of stock bust if AI boom disappoints - Axios</a>
+
+📰 정치/사회
+- <a href="https://www.kukinews.com/article/view/kuk202611170091">국민의힘, 청와대·정부서울청사서 현장 의총…조작기소 특검법 직격</a>
+- <a href="https://www.dailian.co.kr/news/view/1716072/?sc=Naver">&#x27;조작기소 특검법&#x27; 끝내 국무회의 통과…李대통령 대신 총리가 &#x27;땅땅땅...</a>
+- <a href="https://www.sisaweek.com/news/articleView.html?idxno=239013">민주당 초선 55명, 최민희 엄중 징계 촉구… 당내 갈등 확산</a>
+- <a href="https://www.cnbnews.com/news/articleView.html?idxno=1024100">첫 미중러 정상회담서 북핵 용인?···김정은 왜 백두산行?</a>
+- <a href="https://weekly.khan.co.kr/article/202611171214001">“배현진 1년”에 “네” 답변… 황경성 ‘조작징계’ 증거 공개</a>
+- <a href="https://www.kukinews.com/article/view/kuk202611170093">송영길 “김민석·정청래 만나 대타협해야”…신천지 공동 대응 제안</a>
