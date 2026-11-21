@@ -1,0 +1,37 @@
+📅 2026년 11월 21일
+서울 날씨: Sunny | 현재 -1°C | 최저 -3°C | 최고 1°C | 강수량 0.0mm | 습도 32%
+
+📊 주요 금융 지표
+- USD/KRW: 1,330.97 원
+- KOSPI: 5,137.89 (+1.39%)
+- NASDAQ: 22,617.73 (-5.28%)
+- Google: 272.66 (-3.46%)
+- Apple: 349.21 (-0.92%)
+- Microsoft: 498.30 (-1.78%)
+- QQQM: 265.64 (-2.19%)
+
+🇰🇷 국내 증시
+- <a href="https://www.tokenpost.kr/news/breaking/441979">개장 초 5.73% 넘게 내린 아스테라랩스…미국 AI주 약세</a>
+- <a href="https://www.kukinews.com/article/view/kuk202611210010">앤트로픽, 상장 이틀째 8.5% 급락…장중 공모가 턱밑 추락</a>
+- <a href="https://www.sisajournal.com/news/articleView.html?idxno=394864">코스피 4900선 붕괴에…나경원 &quot;李정권, 국민 돈 물어내라&quot;</a>
+- <a href="https://www.moneystorm.kr/news/articleView.html?idxno=8694">[재무이슈] 발행조건 유리하나 주가부담 상당한 엘앤에프의 CB 1515억원....</a>
+- <a href="https://www.ekn.kr/web/view.php?key=20261121024572796">“내가 경고했잖아”…AI株 폭락에 금융시장 패닉, ‘빅쇼트’가 옳았나...</a>
+- <a href="https://www.viva100.com/article/20261121500035">나스닥 5.3% 폭락…AI 투자 불안에 美증시 ‘검은 금요일’</a>
+- <a href="https://www.tokenpost.kr/news/breaking/441975">미국 증시 개장 직후 시총 5000억달러·약 666조원 감소 주장</a>
+
+🇺🇸 해외 증시
+- <a href="https://news.google.com/rss/articles/CBMi3gFBVV95cUxQV3BLQkZqa19uTmlTOGE1UXJoQzFvaVhHOXUzRzRLTUVWN1VWMzFyZTBzX05CUk8xUzlzNThUbkdxZXZlYk9hUFlSS0QxdENEOWxSaE5LSTNiVVU0OVdGOGY5Tmw0Rk5rTnIxeVA5anBwYjJwYXoyV01tTFplNjFtZFRmZTE3REZrWndQTzJES2t4Q3lUYm05SUNmRGdpU0xHeWU0WnZYa3ZDMzhjNGFnelFyR2pTS3d3a3pmM0lhTEZqTnBpaWs4d1lmeHFYSjJWR3A4U2ZVVjhpSE9iZHc?oc=5">Anthropic IPO live: Anthropic stock drops after first day of trading - Yahoo Finance</a>
+- <a href="https://news.google.com/rss/articles/CBMid0FVX3lxTE0tY1RiS3BadWcwVVMwU2oteTAzRVdyVEpSeUwtUGJOU3RZV3BmOEJQRmtrT25udndSRVUxRDVpSkRCLUdCS2lDc3dTRm9Ja19qNzh3MlNXVDVDM0UwQXItVWgyMUJnaV9xY2RlWEJmbnBCWWE1ZEdz0gF8QVVfeXFMUDFCSzhsWkpPUEpfV1BiOTNJUkJCbGNwaFVlUmtCcm42WTNmaXF6RVdpbnNwcWJOV1V6QWRtSjVMdFBuLU5kSmFwM0Q5S0ZQOVdPdVVlMGh3dVQyQnAtY0lXcU9xbjN0NE5pYUU1MEM5cU1WN25lc3pYUmpJaQ?oc=5">S&amp;P 500 and Dow close in correction; Nasdaq erases 2026 gain as AI rout picks up steam - CNBC</a>
+- <a href="https://news.google.com/rss/articles/CBMikwFBVV95cUxPcUZlU0tOLVI2d1NzZWVxWk0zOEVLZ0JmZy1HXzh5cTlZemVlWFZiQ3pyRGdEOERwaTY0WHM3WXRRSHN5WjF5UHo3WVZQVVk4WHd1eVFsc09qUjYwSWpJbGlTX2lZaVRIMkdlTnU5MlR6MVM0VW4zNnJFck0wbnFjaVYxbHhhSjdNbGxRckZ2YjlNcTQ?oc=5">Stocks Often Prosper After an Abrupt C.E.O. Exit. Is Nvidia Different? - The New York Times</a>
+- <a href="https://news.google.com/rss/articles/CBMingFBVV95cUxNLW9ZM3F2c2phdDRwLURNU0NzTHpXRjJTY28yTTdNT0xiVjZOczIxQXNYcTJmemMyN2Vod09MYUdnZUZaSl9saFhHdFBuWWlZRHFVOXFqSkVUSlNJSERBdEdETmxnNnZNeHktR1NpZldpRjVtWmtIQk16WHZLa3VrZUpmcUl6WnNzV3RfRmpobVpSbVBwMFQ5UUJkalFyQQ?oc=5">Prediction: Nvidia Stock Will Do This in the 6 Months After a New CEO Takes Over, According to History - Yahoo Finance</a>
+- <a href="https://news.google.com/rss/articles/CBMif0FVX3lxTE5CZGVYYlZTODBOZUpYNkFCQWloR3JjOGhRTWwxR3N5R3diQ3Y0Ql9lcm5HYS1jUl9ld2lKbF9PaC04bXZDN3EyWV9pOTdka0pZNVJJRWxsMDV3SVZBcWlOTEotc3Q1QmhkWXA4dHNjNTAzOXE2RUp1ODlSa0x1bGfSAYQBQVVfeXFMT0ptTzRIZzNaUW9ZSkY1akd4VWx6QjBXaE5jN3BTckZ6WElXWE1iQW9ieURtMmptenhNbm1BeFBDTE5FdVM4UkpDSVQ1NEJwRkE1Ym5fUnRiRHNmWUNPcUdzdC1XRlRVREg1N05jZ09GaDI5clM5UVlweGtabWFKYWNRNERH?oc=5">Warsh wants Fed officials to talk less. Instead, they’re talking more - CNBC</a>
+- <a href="https://news.google.com/rss/articles/CBMinwFBVV95cUxNV0pwMURCc1diYXRGTmtCaC0tNnZac3RIMEtTT1BCMGxpZ093OTRFdVJpRGx4TW5YRENNTWxpN0dYLTZpQ0ZXOC1sby1jNUtYbVNseHFWN2J3MGFuQjNwa3lOR2F4S1JicENRMzQ1ZWlDMkRyRzk5eG5IcVFpQXkyS0kzYU15a1RCWXNwWERBVFRmbUFZbE80WHhKUmVoejA?oc=5">Fed&#x27;s Cook says rate hikes needed to lower high inflation - Reuters</a>
+- <a href="https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ0FXYWthQmJLZi05SXhQR1o2akNmbUo4WFAyUWVjbjdkNmdwWi05clFGakpLMEFkSi1oS2ljalM2N2NyclZWTE9temNQMTJjZk9EQTYwZUJiMVlPcE1zQzA4eE5OU0tNQTg5QU5fU3k4bGIxM2NIVVFGZUZzRlR6VXEwVjBLNmvSAYwBQVVfeXFMUDZSczNSbHAxcjNFa1FMNWU3STJRUVBRV0x6SjhFVFRBdGNqSFhqMGl5bGtMSkN0YzQyWUpWLVppMmxpQWNFbFF4VmY0eE5feTJ5UVotZnNPYVdEdXhzWWVmaTk3YmdXNGdtRHlRN1RqeElDMXBEbkw4Z1hyWWxnM3hBWm9MME5Xbm5MNU0?oc=5">Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike - CNBC</a>
+
+📰 정치/사회
+- <a href="http://kor.theasian.asia/archives/422402">아자뉴스바이트 20261121</a>
+- <a href="https://www.gukjenews.com/news/articleView.html?idxno=3758423">영덕군 인사 시스템 근본 혁신 촉구…박현규 영덕군의회 부의장 6개 대...</a>
+- <a href="https://www.seoul.co.kr/news/international/2026/11/21/20261121500008?wlog_tag3=naver">트럼프 “생화학무기” 들먹이더니…“명령 즉시 이란 공격” 美·이스...</a>
+- <a href="https://www.newsclaim.co.kr/news/articleView.html?idxno=3083673">[강진모 칼럼]33B 가운데 좌석에 앉은 대통령</a>
+- <a href="http://www.yonhapnewstv.co.kr/news/AKR20261121103946myO">국힘 &quot;&#x27;조희대 탄핵&#x27; 당론 채택한 與, 탄핵밖에 모르는 &#x27;탄핵냥이 집단...</a>
+- <a href="https://www.news1.kr/politics/assembly/6361549">정점식, 與 &#x27;조희대 탄핵&#x27; 추진에 &quot;순도 100% 엉터리… 李 유죄판결 보복...</a>
